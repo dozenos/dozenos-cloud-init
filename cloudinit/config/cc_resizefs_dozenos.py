@@ -1,5 +1,6 @@
 # Copyright (C) 2011 Canonical Ltd.
 # Copyright (C) 2012 Hewlett-Packard Development Company, L.P.
+# Modifications Copyright DozenOS Contributors. See git history for details.
 #
 # Author: Scott Moser <scott.moser@canonical.com>
 # Author: Juerg Haefliger <juerg.haefliger@hp.com>

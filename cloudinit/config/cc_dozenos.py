@@ -3,6 +3,7 @@
 #    Copyright (C) 2009-2010 Canonical Ltd.
 #    Copyright (C) 2012 Hewlett-Packard Development Company, L.P.
 #    Copyright (C) 2019 Sentrium S.L.
+#    Modifications Copyright DozenOS Contributors. See git history for details.
 #
 #    Author: Scott Moser <scott.moser@canonical.com>
 #    Author: Juerg Haefliger <juerg.haefliger@hp.com>

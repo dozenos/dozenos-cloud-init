@@ -1,6 +1,7 @@
 # vi: ts=4 expandtab
 #
 #    Copyright (C) 2020 Sentrium S.L.
+#    Modifications Copyright DozenOS Contributors. See git history for details.
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License version 3, as
